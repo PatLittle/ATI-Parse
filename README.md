@@ -1,6 +1,6 @@
-# ATI-Parse
+# ATI-Report-Reporter
 
-ATI-Parse collects and normalizes Treasury Board Secretariat (TBS) statistical reporting forms for Access to Information (TBS/SCT 350-62), Privacy (TBS/SCT 350-63), and the supplemental statistical report. The goal is to parse the official form definitions (HTML/XLS), refactor open data submissions into consistent long-form tables, and generate artifacts for validation and reporting.
+ATI-Report-Reporter collects and normalizes Treasury Board Secretariat (TBS) statistical reporting forms for Access to Information (TBS/SCT 350-62), Privacy (TBS/SCT 350-63), and the supplemental statistical report. The goal is to parse the official form definitions (HTML/XLS), refactor open data submissions into consistent long-form tables, and generate artifacts for validation and reporting.
 
 ## Background
 Institutions submit annual statistical reports to the Information and Privacy Policy Division. Reports must be in XML or XLS formats, and an HTML version of each form is published for accessibility and to document the required data elements. Historical statistical data is published in open formats.
